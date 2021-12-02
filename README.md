@@ -1,4 +1,4 @@
-# discord-alt-account-client
+# Discord-Multi-Account
 with this source code u will abel to join ur tokens (accounts without email) to voice channel or just make account online.
 
 # HOW TO INSTALL :
